@@ -179,28 +179,14 @@
     
     
         <url>
-            <loc>https://leshliao.github.io/my-first-blog/2/</loc>
+            <loc>https://leshliao.github.io/blog-20221009/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2022-10-09</lastmod>
         </url>
     
         <url>
-            <loc>https://leshliao.github.io/my-first-blog/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2022-10-09</lastmod>
-        </url>
-    
-        <url>
-            <loc>https://leshliao.github.io/my-first-blog/view-all/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2022-10-09</lastmod>
-        </url>
-    
-        <url>
-            <loc>https://leshliao.github.io/welcome-to-the-desert-of-the-real/view-all/</loc>
+            <loc>https://leshliao.github.io/welcome-to-the-desert-of-the-real/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2019-05-17</lastmod>
@@ -214,7 +200,7 @@
         </url>
     
         <url>
-            <loc>https://leshliao.github.io/welcome-to-the-desert-of-the-real/</loc>
+            <loc>https://leshliao.github.io/welcome-to-the-desert-of-the-real/view-all/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2019-05-17</lastmod>
