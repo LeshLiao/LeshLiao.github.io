@@ -6,10 +6,10 @@ subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
-image: >-
-  https://lh3.googleusercontent.com/QCG4PsEgmfoGEuR5VzObzViUdEdS1yGCpdDosbivQwSICQNAAh7LNAjMt6dQ7zGiswcYpTrm_kUV1vcHVzcoG97Yi4yJW5DGWRRVflTVOYcOChoEy2axCqho-X7yHXgs8ghO86WslakOoJrYXvFQMVtXQYBL5drwy18-Pth96rus69-tP3ii2eb9979QFxbeeQilJc2-Zt96ExbefQmvX0_6DI6d0WG9N7NDdnb4TYc-EyxPljU4BJpx2vW9GgGn5HJ46NnBUQT-bE15MnP4gL8JvAXe1-D1JrakzzMBdazr-V9k9zQbmWwIvnnrvme1X4WBFADlzcgM6EqFw0GXpLgm7avHF7tQ4hBPrhU3fQj4_DmXt7kxIiNcrLKIIqktBs7RAsssGih3qQP5L1PvfhMs6OFDMV543p2__BmZwrlp4Ye7pycisAugt_E71NhUF5cISQBjusUm8Z9Mf6sEAianPcrFOnYEgmf86mcH2ojI5cYqvdRHiROZIJLd4YcgJGNkicfGVkWHbXDD_sOI2P919kGbWZwKbHHeyengEDa4JahWIci6bXnARjPOI0HbteN26kYNZPRbEhvgHrCjMwEJ_mekrrls22ZjpQISBaZUOEgMhf1FDWhA9ys1NWR6Ir4oNZ8XPIspUO-IcZXpJp8d1AstdDxlvuknmuq0BjqHYOhzIXHxClYue0Qr0c_uOmBl1LRR3yFaLkbNFHkORt5nDFkQuTICJB5mroz9VmDUUIXXvIzDHVMeTnsrODAjyexFMLrvVkH20dIRmBhImXyE2AFfAKM5cRRJFGZ_1FDeD16bNdLRpNcC5ijxZwI8pX7NKb6vjb_kuV3o7OQ1Xy8OLvG-IwNR5qHGti83qF7sYaU47Vfg9RHbD4wjOaWX0OW3_Odyb4LnweohpuktezjHmsX2aZt5mUabSDt7=w1310-h866-no?authuser=0
+image: >- 
+  /assets/img/photo/2022-10-09-01.jpg
 optimized_image: >-
-  https://lh3.googleusercontent.com/QCG4PsEgmfoGEuR5VzObzViUdEdS1yGCpdDosbivQwSICQNAAh7LNAjMt6dQ7zGiswcYpTrm_kUV1vcHVzcoG97Yi4yJW5DGWRRVflTVOYcOChoEy2axCqho-X7yHXgs8ghO86WslakOoJrYXvFQMVtXQYBL5drwy18-Pth96rus69-tP3ii2eb9979QFxbeeQilJc2-Zt96ExbefQmvX0_6DI6d0WG9N7NDdnb4TYc-EyxPljU4BJpx2vW9GgGn5HJ46NnBUQT-bE15MnP4gL8JvAXe1-D1JrakzzMBdazr-V9k9zQbmWwIvnnrvme1X4WBFADlzcgM6EqFw0GXpLgm7avHF7tQ4hBPrhU3fQj4_DmXt7kxIiNcrLKIIqktBs7RAsssGih3qQP5L1PvfhMs6OFDMV543p2__BmZwrlp4Ye7pycisAugt_E71NhUF5cISQBjusUm8Z9Mf6sEAianPcrFOnYEgmf86mcH2ojI5cYqvdRHiROZIJLd4YcgJGNkicfGVkWHbXDD_sOI2P919kGbWZwKbHHeyengEDa4JahWIci6bXnARjPOI0HbteN26kYNZPRbEhvgHrCjMwEJ_mekrrls22ZjpQISBaZUOEgMhf1FDWhA9ys1NWR6Ir4oNZ8XPIspUO-IcZXpJp8d1AstdDxlvuknmuq0BjqHYOhzIXHxClYue0Qr0c_uOmBl1LRR3yFaLkbNFHkORt5nDFkQuTICJB5mroz9VmDUUIXXvIzDHVMeTnsrODAjyexFMLrvVkH20dIRmBhImXyE2AFfAKM5cRRJFGZ_1FDeD16bNdLRpNcC5ijxZwI8pX7NKb6vjb_kuV3o7OQ1Xy8OLvG-IwNR5qHGti83qF7sYaU47Vfg9RHbD4wjOaWX0OW3_Odyb4LnweohpuktezjHmsX2aZt5mUabSDt7=w1310-h866-no?authuser=0
+  /assets/img/photo/2022-10-09-01.jpg
 category: blog
 tags:
   - welcome
@@ -17,6 +17,9 @@ tags:
 author: mranderson
 paginate: true
 ---
+
+![image info](/assets/img/photo/2022-10-09-01.jpg)
+
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
