@@ -1,13 +1,15 @@
-## jekyll github pages
-
+## Personal Blog by Jekyll
 Your site is live at https://leshliao.github.io/
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
 ### Jekflix Template Author
 
 [Thiago Rossener](https://rossener.com/)
+
+https://github.com/thiagorossener/jekflix-template
 
 ### License
 
