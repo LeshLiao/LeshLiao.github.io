@@ -90,7 +90,7 @@ translations:
     image_alt: "404 - Page not found"
   contact:
     title: "Talk to me"
-    subject: "New Contact: leshliao.github.io"
+    subject: "New Contact! (not working...)"
     submit_btn: "Send"
     placeholders:
       name: "Your name"
