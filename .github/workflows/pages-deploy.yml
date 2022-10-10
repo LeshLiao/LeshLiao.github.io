@@ -45,9 +45,6 @@ jobs:
           ruby-version: 3 # reads from a '.ruby-version' or '.tools-version' file if 'ruby-version' is omitted
           bundler-cache: true
       
-      - name: npm install
-        uses: bahmutov/npm-install@v1
-
       - name: Build site
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
         env:
