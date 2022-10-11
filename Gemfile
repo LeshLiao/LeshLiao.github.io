@@ -10,3 +10,6 @@ gem "json"
 gem "jekflix"
 gem "jemoji"
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+group :test do
+    gem "html-proofer", "~> 3.18"
+end
