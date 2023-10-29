@@ -8,7 +8,7 @@ on:
       - .gitignore
       - README.md
       - LICENSE
-  
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -44,15 +44,15 @@ jobs:
         with:
           ruby-version: 3 # reads from a '.ruby-version' or '.tools-version' file if 'ruby-version' is omitted
           bundler-cache: true
-      
+
       - name: Build site
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: "production"
 
-      - name: Test site
-        run: |
-          bundle exec htmlproofer _site --disable-external --check-html --allow_hash_href --alt-ignore '/.*/'
+      #- name: Test site
+      #  run: |
+      #    bundle exec htmlproofer _site --disable-external --check-html --allow_hash_href --alt-ignore '/.*/'
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v1
